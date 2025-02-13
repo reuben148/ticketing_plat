@@ -53,7 +53,7 @@ function Next() {
         
         {/* Title */}
         <p className="font-serif text-center text-2xl sm:text-3xl font-semibold text-gray-800">
-          Shopify Ticket Upload
+          Confrence Ticket Generator
         </p>
         <hr className="mt-2 border-gray-300" />
 
